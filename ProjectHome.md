@@ -1,0 +1,1 @@
+This project provides a hardware accelerated URL extraction system. The NetFPGA reference router has been modified to identify HTTP packets containing URLs and send a copy to the host system. Software running on the host extracts and stores URLs and search terms into a database, and then displays them through a graphical user interface.
